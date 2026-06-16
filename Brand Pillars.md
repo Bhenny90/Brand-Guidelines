@@ -4,8 +4,6 @@ These principles guide every product, partnership, campaign, and community decis
 
 ---
 
-<img src="./assets/brand-pillars-banner.png" width="100%">
-
 ---
 
 ## 🏆 Ownership Beyond Consumption
@@ -13,8 +11,6 @@ These principles guide every product, partnership, campaign, and community decis
 Most products end when the transaction is complete.
 
 NFT Energy is built around the idea that ownership should continue beyond the purchase.
-
-![Ownership](./assets/ownership-image.png)
 
 ### What It Means
 
@@ -30,8 +26,6 @@ NFT Energy is built around the idea that ownership should continue beyond the pu
 ---
 
 ## ⚡ Every Can Unlocks Something
-
-![Rewards](./assets/rewards-image.png)
 
 Every purchase should create value beyond the beverage itself.
 
@@ -49,8 +43,6 @@ Every purchase should create value beyond the beverage itself.
 
 ## 🤝 Community Spotlight
 
-![Community](./assets/community-image.png)
-
 NFT Energy helps projects, creators, and communities gain real-world exposure.
 
 ### How We Support Communities
@@ -66,7 +58,6 @@ NFT Energy helps projects, creators, and communities gain real-world exposure.
 
 ## 🌍 No Gatekeeping
 
-![Accessibility](./assets/accessibility-image.png)
 
 Ownership should be accessible.
 
