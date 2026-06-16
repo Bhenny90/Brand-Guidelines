@@ -10,10 +10,10 @@ Welcome to the official NFT Energy × Energy Wabbits Brand Guide.
 
 ## 📚 Documentation
 
-- [Brand Overview](./BrandOverview.md)
-- [Brand Pillars](./Brand%20Pillars.md)
-- [Brand Identity](./brandidentity.md)
-- [Energy Wabbits](./energywabbits.md)
-- [Messaging](./meassaging.md)
-- [Ecosystem](./EcoSystem.md)
-- [Quick Reference](./QuickReference.md)
+- [Brand Overview](brand-overview.html)
+- [Brand Pillars](brand-pillars.html)
+- [Brand Identity](brand-identity.html)
+- [Energy Wabbits](energy-wabbits.html)
+- [Messaging](messaging.html)
+- [Ecosystem](ecosystem.html)
+- [Quick Reference](quick-reference.html)
