@@ -62,10 +62,6 @@ A future where every purchase creates value beyond the transaction.
 
 ## 🔥 Our Belief
 
-<p align="center">
-  <img src="/assets/core-belief.png" width="600">
-</p>
-
 We believe ownership should not be limited to investors, insiders, or tech experts.
 
 It should be available to everyone.
@@ -97,10 +93,6 @@ No experience required.
 ---
 
 ## 📈 The Bigger Picture
-
-<p align="center">
-  <img src="/assets/brand-journey.png" width="850">
-</p>
 
 ```mermaid
 flowchart LR
