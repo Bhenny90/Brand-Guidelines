@@ -1,9 +1,5 @@
 # 🚀 Brand Overview
 
-<p align="center">
-  <img src="/assets/nft-energy-logo.png" width="300">
-</p>
-
 <h2 align="center">
 Drink it. Own it.
 </h2>
