@@ -1,6 +1,5 @@
 # 💬 Messaging Framework
 
-<img src="./assets/messaging-banner.png" width="100%">
 
 Our messaging should be simple, consistent, and easy to understand.
 
@@ -21,8 +20,6 @@ It's a product, a community, and an ecosystem built around participation.
 ---
 
 ## 🥤 Customer Message
-
-<img src="./assets/customer-message.png" width="100%">
 
 ### What We Want Customers To Understand
 
@@ -58,7 +55,6 @@ They represent participation in the NFT Energy ecosystem.
 
 ## 🤝 Partner Message
 
-<img src="./assets/partner-message.png" width="100%">
 
 ### What We Want Partners To Understand
 
@@ -86,8 +82,6 @@ NFT Energy creates opportunities for communities to gain real-world exposure.
 ---
 
 ## ✅ Approved Language
-
-<img src="./assets/approved-language.png" width="100%">
 
 ### Use
 
