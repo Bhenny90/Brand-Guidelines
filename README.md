@@ -42,10 +42,6 @@ Reward the people who support it.
 
 ## 🌎 Vision
 
-<p align="center">
-  <img src="/assets/vision-graphic.png" width="700">
-</p>
-
 To become the brand that bridges physical products and digital ownership.
 
 A future where every purchase creates value beyond the transaction.
@@ -53,10 +49,6 @@ A future where every purchase creates value beyond the transaction.
 ---
 
 ## ⚡ What Makes Us Different
-
-<p align="center">
-  <img src="/assets/comparison-graphic.png" width="800">
-</p>
 
 | Traditional Brands | NFT Energy |
 |-------------------|------------|
