@@ -1,143 +1,69 @@
-# ⚡ Energy Wabbits — How It Works
+# Brand Identity
 
-## 1. Stake Your Wabbits
+## Personality
 
-Go to the Staking page and stake your Energy Wabbit NFTs.
+NFT Energy is:
 
-Each staked Wabbit earns you **EP (Energy Points)** every hour. EP is the main in-game currency used throughout the ecosystem.
-
-### Staking Basics
-- Stake a Wabbit to begin earning EP
-- EP accrues over time
-- More active Wabbits means more earning potential
-- Staking is the foundation of the entire ecosystem
-
----
-
-## 2. The Burrow Stop (Station)
-
-The Burrow Stop is your idle store.
-
-This is where your EP gets put to work. You spend EP to build up your Station and generate **WB (Wabbit Bucks)** every day.
-
-The Station includes four main tabs:
-
-### Collect Tab
-Spend EP to collect partner energy drink cans.
-
-- Collecting your first can unlocks the store
-- Higher tiers earn more WB per day
-- Tier progression increases shop performance
-
-Progression:
-- Can
-- 12-Pack
-- 24-Pack
-
-### Staff Tab
-Level up your crew members using EP.
-
-Staff roles include:
-- Stocker
-- Manager
-- Night Manager
-
-Rules:
-- Each active crew member requires **1 staked Wabbit**
-- Higher level staff improves your shop score
-- Better staff also improves efficiency
-
-### Stats Tab
-Track your performance and ecosystem output.
-
-This tab shows:
-- Daily WB rate
-- Maintenance health
-- EP formula
-
-### Ranks Tab
-See how you stack up against the rest of the ecosystem.
-
-- View leaderboard standing
-- Track performance
-- Compare growth and activity
-
-### Shop Score
-
-Your **Shop Score** is what determines your Station’s earning power.
-
-**Shop Score = Partner Cans Score + Workers Score, modified by Efficiency**
-
-The higher your score, the more WB you can generate each day.
-
-### WB Limit
-Your Station can only hold a maximum of **25 WB**.
-
-If it fills up and you do not claim, any additional WB is wasted.
+- Confident
+- Builder Focused
+- Welcoming
+- Direct
+- Ambitious
+- Fun
 
 ---
 
-## 3. Wabbit Bucks (WB)
+## Voice
 
-WB is earned daily from your Station.
+We talk like builders.
 
-You can claim WB once per day.
+We focus on what we are creating.
 
-WB can be spent on:
+We educate without talking down to people.
 
-### Burrow Shop
-Redeem WB for real merchandise and items
-
-### Burrow Casino
-Convert WB into chips and play games such as:
-- Slots
-- Coinflip
-- Roulette
-
-### Wabbit Raffles
-Buy raffle tickets using WB for prize drawings
+We celebrate progress and community wins.
 
 ---
 
-## 4. Collab Score
+## NFT Energy Colors
 
-Your staking streak and ecosystem activity build your **Collab Score**.
+Chrome Cyan
+#5BC8E8
 
-Collab Score is used for:
-- Leaderboard ranking
-- Community perks
-- Ambassador qualification
-- Status within the ecosystem
+Chrome Violet
+#9B6FD9
 
-The more active and consistent you are, the stronger your position.
-
----
-
-## 5. EP Boosts
-
-EP Boosts are temporary multipliers that increase EP earnings.
-
-Boosts are purchased using SOL and last for **24 hours**.
-
-Boost types:
-- Single
-- 12-Pack
-- 24-Pack
-- Pallet
-
-Boosts apply to specific Wabbits depending on the boost type.
+White
+#FFFFFF
 
 ---
 
-## 6. Maintenance
+## Energy Wabbits Colors
 
-Your store requires servicing every **24 hours**.
+Blue
+#004D95
 
-Maintenance is paid in EP.
+Magenta
+#AD0A75
 
-If maintenance is not paid:
-- Efficiency drops
-- Shop output becomes less effective
-- WB generation is impacted
+Orange
+#EB4F12
 
-Higher shop score reduces maintenance cost, rewarding stronger store development.
+Gold
+#FEBC06
+
+Shared Cyan
+#2EB9F2
+
+---
+
+## Typography
+
+Headers:
+Space Grotesk
+
+Body:
+Inter
+
+Technical:
+JetBrains Mono
